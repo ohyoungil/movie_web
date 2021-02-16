@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;800&display=swap");
+
+.about__container {
+  text-align: center;
+  margin-top: 80px;
+  margin-left: 300px;
+  width: 70%;
+  padding: 20px 10px;
+  color: #f1f2f6;
+  background-color: #2f3542;
+  font-size: 2em;
+  font-weight: 500;
+  font-family: "Playfair Display", serif;
+  -webkit-box-shadow: 1px 19px 14px -7px rgba(0, 0, 0, 0.39);
+  -moz-box-shadow: 1px 19px 14px -7px rgba(0, 0, 0, 0.39);
+  box-shadow: 1px 19px 14px -7px rgba(0, 0, 0, 0.39);
+}
